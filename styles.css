@@ -7,6 +7,8 @@ body {
 h1 {
     text-align: center;
     color: orange;
+    font-size: 35px;
+    font-family: "Lucida Console", "Courier New", monospace;
     
 }
    
@@ -14,19 +16,34 @@ h1 {
 h2 {
     text-align: center;
     color: orange;
+    font-size: 35px;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 
 h3 {
     text-align: center;
     color: orange;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 p {
     text-align: center;
     color: orange;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.aukiolo
+{
+  padding-top: 110px;
+}
 
 
 
