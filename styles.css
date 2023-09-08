@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     color: orange;
     font-size: 35px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Times New Roman", Times, serif;
     
 }
    
@@ -17,20 +17,20 @@ h2 {
     text-align: center;
     color: orange;
     font-size: 35px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Times New Roman", Times, serif;
 }
 
 
 h3 {
     text-align: center;
     color: orange;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Times New Roman", Times, serif;
 }
 
 p {
     text-align: center;
     color: orange;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Times New Roman", Times, serif;
 }
 
 img {
