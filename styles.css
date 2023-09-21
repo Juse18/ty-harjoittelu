@@ -1,8 +1,3 @@
-body {
-  background-color: black;
-}
-
-
 
 h1 {
     text-align: center;
@@ -33,6 +28,17 @@ p {
     font-family: "Times New Roman", Times, serif;
 }
 
+
+
+body {
+  background-image: url("image\ \(1\).png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+}
+
 img {
   display: block;
   margin-left: auto;
@@ -42,8 +48,22 @@ img {
 
 .aukiolo
 {
-  padding-top: 110px;
+  padding-top: 600px;
+  padding-left: 700px;
 }
+
+.etusivu2 
+{
+  padding-top: 100px;
+  padding-left: 700px;
+}
+
+.etusivu3
+{
+  padding-top: 200px;
+  padding-right: 1000px;
+}
+
 
 
 
